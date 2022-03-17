@@ -1,7 +1,11 @@
 {
   "expo": {
-    "name": "uber",
-    "slug": "uber",
+    "name": "Chalain Phir",
+    "slug": "chalain-phir",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
